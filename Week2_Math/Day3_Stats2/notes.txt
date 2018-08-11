@@ -1,0 +1,33 @@
+histogram vs population
+if our sample went out to the edge of the distribution, would it be definitely outside the distribution?
+before two-tailed: why didn't we just stop with conclusion when we saw point inside the distribution
+we could generalize without human
+color changtes
+replace words with symbols
+dont mention normality distribution - just a single mention and link to give the caveat
+distribution is singular
+negative firing rates
+label axes of 30 Hz
+instead of colored block hoistograms for sampling example, use short-block bars instrad
+in animation of sampling: bottom in dif scale than top - first without dif scale, then change it
+
+talking about sampling and our sample
+don't use "sample" for the draws from the population, the indivudal "experiments" or "draws"
+
+comment on when we leave simulation world
+
+branch out the the bottom half for an additional thing - with one single sample and its associated t distribution
+
+t distribution should be defined
+degrees of freedom
+possibly remove the ddof
+
+dont even include code you dont want them to use/see/understand
+
+problem by problem make sure students reach next question together in afternoon
+
+---general notes
+very specific wording for each thing that gets mentioned - like distributions specifically
+no short-hands
+
+do regressions on day 3
